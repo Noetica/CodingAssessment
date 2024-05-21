@@ -26,6 +26,8 @@ We would like you to write a program which can read a file like this into an app
 
 ## Supplemental Information - Area of a triangle
 Given a triangle of sides (a,b,c)
-set s=(a+b+c)/2
-Then the area is sqrt(s(s-a)(s-b)(s-c))
+
+set `s=(a+b+c)/2`
+
+Then the area is `sqrt(s(s-a)(s-b)(s-c))`
 
