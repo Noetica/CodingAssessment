@@ -22,7 +22,7 @@ We would like you to write a program which can read a file like this into an app
 ## Notes
 * This is an open test; feel free to ask questions at any stage; use the Internet as reference for anything you need to look up.
 * In the time permitted, we don’t necessarily expect a fully functional working program, but to see what you *can* do.
-* There is a sample CSPROJ and SLN to get you started. 
+* There is a sample .csproj, .sln and program.cs to get you started.
 
 
 ## Supplemental Information - Area of a triangle
